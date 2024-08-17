@@ -1,0 +1,1 @@
+/home/matias/Escritorio/tp_ind/target/debug/libtp_ind.rlib: /home/matias/Escritorio/tp_ind/src/evaluated_step.rs /home/matias/Escritorio/tp_ind/src/lib.rs /home/matias/Escritorio/tp_ind/src/regex.rs /home/matias/Escritorio/tp_ind/src/regex_rep.rs /home/matias/Escritorio/tp_ind/src/regex_step.rs /home/matias/Escritorio/tp_ind/src/regex_val.rs

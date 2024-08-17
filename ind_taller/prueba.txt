@@ -1,0 +1,4 @@
+start middle end
+start with whatever but end not
+end with end
+only this line
